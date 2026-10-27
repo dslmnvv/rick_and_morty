@@ -1,0 +1,1 @@
+enum CharactersFailure { connection, unknown }
