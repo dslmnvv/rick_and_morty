@@ -16,6 +16,7 @@ class AppDimensions {
     this.loaderStrokeWidth = 2,
     this.dividerThickness = 1,
     this.paginationExtent = 600,
+    this.contentMaxWidth = 720,
   });
 
   final double spacingXs;
@@ -34,4 +35,5 @@ class AppDimensions {
   final double loaderStrokeWidth;
   final double dividerThickness;
   final double paginationExtent;
+  final double contentMaxWidth;
 }
