@@ -1,0 +1,38 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Rick and Morty",
+  "searchHint": "Поиск по имени",
+  "searchClear": "Очистить",
+  "retry": "Повторить",
+  "emptyTitle": "Никого не нашли",
+  "emptySubtitle": "Попробуйте изменить запрос",
+  "errorConnection": "Нет соединения с интернетом",
+  "errorUnknown": "Что-то пошло не так",
+  "errorNextPage": "Не удалось загрузить следующую страницу",
+  "errorRefresh": "Не удалось обновить список",
+  "statusAlive": "Жив",
+  "statusDead": "Мёртв",
+  "statusUnknown": "Неизвестно",
+  "genderFemale": "Женский",
+  "genderMale": "Мужской",
+  "genderGenderless": "Бесполый",
+  "genderUnknown": "Неизвестно",
+  "detailsSpecies": "Вид",
+  "detailsType": "Подвид",
+  "detailsGender": "Пол",
+  "detailsOrigin": "Происхождение",
+  "detailsLocation": "Последняя локация",
+  "detailsEpisodes": "Эпизодов",
+  "valueUnknown": "Неизвестно",
+  "statusWithSpecies": "{status} · {species}",
+  "@statusWithSpecies": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      },
+      "species": {
+        "type": "String"
+      }
+    }
+  }
+}
